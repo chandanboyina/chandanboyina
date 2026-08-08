@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=220&section=header&text=B.%20Naga%20Sai%20Chandan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Security%20Engineering&descAlignY=55&descSize=18" width="100%"/>
+# 👋 B. Naga Sai Chandan
+
+### Software Engineer · Backend & Security Engineering
+
+**Building secure, scalable, cloud-native and intelligent software systems.**
 
 <br>
 
@@ -63,7 +67,9 @@ I like understanding systems **end-to-end**: API design → databases → auth �
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&width=1000" width="100%"/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
 
 ## ⚡ Engineering Domains
@@ -81,7 +87,9 @@ I like understanding systems **end-to-end**: API design → databases → auth �
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&width=1000" width="100%"/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
 
 ## 🚀 Featured Engineering Projects
@@ -194,53 +202,9 @@ A microservices-based booking platform handling discovery, scheduling, auth, pay
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&width=1000" width="100%"/>
-</div>
 
-## 🏗️ System Architecture Mindset
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
-
-```text
-                         ┌───────────────────────┐
-                         │     USER / CLIENT      │
-                         └───────────┬────────────┘
-                                     │
-                                     ▼
-                         ┌───────────────────────┐
-                         │       API LAYER        │
-                         │   REST / WebSocket      │
-                         └───────────┬────────────┘
-                                     │
-                    ┌────────────────┼────────────────┐
-                    │                │                │
-                    ▼                ▼                ▼
-             ┌────────────┐  ┌────────────┐  ┌──────────────┐
-             │  BACKEND   │  │  SECURITY  │  │ MICROSERVICES │
-             │ Spring Boot│  │ JWT / IAM  │  │   Services    │
-             └─────┬──────┘  └────────────┘  └──────┬───────┘
-                   │                                │
-                   └───────────────┬────────────────┘
-                                   │
-                                   ▼
-                        ┌──────────────────────┐
-                        │ DATA & COMMUNICATION │
-                        │  MySQL / MongoDB      │
-                        │  RabbitMQ / REST      │
-                        └──────────┬───────────┘
-                                   │
-                                   ▼
-                        ┌──────────────────────┐
-                        │  CONTAINER & CLOUD    │
-                        │ Docker / Kubernetes   │
-                        │    AWS / CI-CD        │
-                        └──────────────────────┘
-```
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🧰 Technology Arsenal
@@ -356,36 +320,13 @@ A microservices-based booking platform handling discovery, scheduling, auth, pay
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&width=1000" width="100%"/>
-</div>
 
-## 🤖 AI × Software Engineering × Security
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
+**AI × Software Engineering × Security** — Secure APIs · IAM · RAG · LLM Applications · Vector Search · AI-Augmented Threat Analysis, unified into intelligent, secure systems.
 
-```text
-                       SOFTWARE ENGINEERING
-                                │
-                     ┌──────────┴──────────┐
-                     │                     │
-                     ▼                     ▼
-                 SECURITY                AI / ML
-                     │                     │
-                     ▼                     ▼
-              Secure APIs                 RAG
-              IAM                         LLMs
-              Threat Analysis             Vector Search
-              Monitoring                  AI Automation
-                     │                     │
-                     └──────────┬──────────┘
-                                ▼
-                     INTELLIGENT SECURE SYSTEMS
-```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🎓 Education
@@ -420,7 +361,9 @@ A microservices-based booking platform handling discovery, scheduling, auth, pay
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&width=1000" width="100%"/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
 
 ## 🎯 Career Focus
@@ -458,7 +401,9 @@ A microservices-based booking platform handling discovery, scheduling, auth, pay
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&width=1000" width="100%"/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
 
 ## 🔭 What I'm Building Toward
@@ -482,26 +427,25 @@ A microservices-based booking platform handling discovery, scheduling, auth, pay
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanboyina&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandanboyina&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy"/>
-
 </div>
 
 ## 📌 Featured Repositories
 
 <div align="center">
 
-<a href="https://github.com/chandanboyina/AEGIS-X"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanboyina&repo=AEGIS-X&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/chandanboyina/Cloud-Native-Task-Orchestration-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanboyina&repo=Cloud-Native-Task-Orchestration-Platform&theme=tokyonight&hide_border=true"/></a>
-
-<a href="https://github.com/chandanboyina/Salon-appointment-booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanboyina&repo=Salon-appointment-booking&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/chandanboyina/Ai-Saas-Chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chandanboyina&repo=Ai-Saas-Chatbot&theme=tokyonight&hide_border=true"/></a>
+| Repository | Description |
+|---|---|
+| 🛡️ **[AEGIS-X](https://github.com/chandanboyina/AEGIS-X)** | AI-driven cyber resilience platform — RAG, LangChain, FAISS, real-time threat monitoring |
+| ☁️ **[Cloud-Native Task Orchestration Platform](https://github.com/chandanboyina/Cloud-Native-Task-Orchestration-Platform)** | Kubernetes-based distributed task execution with CI/CD |
+| 💇 **[Salon Appointment Booking](https://github.com/chandanboyina/Salon-appointment-booking)** | Microservices booking platform — Keycloak, RabbitMQ, Eureka |
+| 🤖 **[AI SaaS Chatbot](https://github.com/chandanboyina/Ai-Saas-Chatbot)** | Full-stack AI SaaS app with secure auth & RBAC |
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&width=1000" width="100%"/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
 
 <div align="center">
@@ -523,7 +467,5 @@ A microservices-based booking platform handling discovery, scheduling, auth, pay
 ### ⚡ BUILD · SECURE · SCALE · LEARN
 
 *Thanks for stopping by — always happy to talk engineering, systems, or opportunities.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0A66C2&height=120&section=footer" width="100%"/>
 
 </div>
