@@ -4,7 +4,7 @@
 
 # BOYINA NAGA SAI CHANDAN
 
-<img src="https://img.shields.io/badge/🎯%20Aspiring%20Software%20Engineer%20%7C%20Backend%20%26%20Cybersecurity-0A66C2?style=for-the-badge&labelColor=0A0E27"/>
+<img src="https://img.shields.io/badge/%20Aspiring%20Software%20Engineer%20%7C%20Backend%20%26%20Cybersecurity-0A66C2?style=for-the-badge&labelColor=0A0E27"/>
 
 <br><br>
 
