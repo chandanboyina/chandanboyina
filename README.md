@@ -1,32 +1,63 @@
 <div align="center">
 
-# B. Naga Sai Chandan
-
-### Software Engineer — Backend, Cloud & AI-Integrated Systems
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Kubernetes+%7C+AWS;RAG+%2F+LangChain+%2F+FAISS+%7C+Applied+AI;Secure%2C+scalable%2C+production-grade+systems" alt="Typing SVG"/>
-
 <br>
 
-<a href="https://www.linkedin.com/in/chandanboyina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/chandanboyina"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:chandanboyina@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Open%20to%20Work-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+# BOYINA NAGA SAI CHANDAN
+
+<img src="https://img.shields.io/badge/🎯%20Aspiring%20Software%20Engineer%20%7C%20Backend%20%26%20Cybersecurity-0A66C2?style=for-the-badge&labelColor=0A0E27"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=chandanboyina&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/-Backend%20Engineering-6DB33F?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/-Cloud%20%26%20DevOps-232F3E?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/-Cybersecurity-D32F2F?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/-Applied%20AI%20%2F%20RAG-4B0082?style=flat-square&labelColor=1a1a2e"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/chandanboyina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:chandanboyina@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Open%20to%20Work-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+
+<br>
 
 </div>
 
 <br>
 
-> [!TIP]
-> **I build backend systems that scale, deploy cleanly, and integrate AI where it actually adds value** — not as a wrapper, but as a core part of the architecture. Comfortable across the full stack: API design → auth → messaging → containers → Kubernetes → CI/CD → intelligent automation.
->
-> **Actively looking for:** Software Engineer · Backend Engineer · Security Engineer · Cloud/DevOps Engineer roles at product-based companies.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I build **backend systems that scale, deploy cleanly, and integrate AI where it actually adds value** — not as a wrapper, but as a core part of the architecture.
+
+Comfortable across the full stack:
+**API design → auth → messaging → containers → Kubernetes → CI/CD → intelligent automation**
+
+I care about writing software that's secure by design, easy to reason about, and built to survive real production conditions — not just demo conditions.
+
+</td>
+<td width="40%" valign="top">
+
+**🎓 Education**
+B.Tech CSE, Amrita Vishwa Vidyapeetham
+
+**🎯 Currently exploring**
+Backend systems · Cloud-native architecture · Applied AI · Cybersecurity fundamentals
+
+**🚀 Actively looking for**
+Software Engineer · Backend Engineer · Security Engineer · Cloud/DevOps Engineer roles at product-based companies
+
+</td>
+</tr>
+</table>
 
 <br>
+
 
 <div align="center">
 
