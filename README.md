@@ -259,17 +259,38 @@ A lightweight distributed CLI-driven job queue system built with Python, featuri
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1D4ED8','primaryTextColor':'#F8FAFC','primaryBorderColor':'#7C3AED','lineColor':'#64748B','secondaryColor':'#111827','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
 flowchart TD
-    A["🖥️ Client"] --> B["🔌 API Layer<br/>REST / WebSockets"]
-    B --> C["⚙️ Backend<br/>Spring Boot"]
-    B --> D["🔐 Security<br/>IAM / JWT"]
-    B --> E["🧩 Microservices"]
-    C --> F["🗄️ Data & Communication<br/>MySQL · MongoDB · RabbitMQ"]
+
+    A["🖥️ Client / User"] --> B["🔌 API Layer<br/>REST · WebSockets"]
+
+    B --> C["⚙️ Backend Services<br/>Spring Boot · FastAPI"]
+    B --> D["🔐 Identity & Access<br/>IAM · JWT · OAuth2"]
+    B --> E["🧩 Microservices<br/>Service Discovery · APIs"]
+
+    C --> F["🗄️ Data & Messaging<br/>MySQL · MongoDB · RabbitMQ"]
     D --> F
     E --> F
-    F --> G["☁️ Cloud & DevOps<br/>Docker · Kubernetes · AWS"]
 
-    classDef node fill:#111827,stroke:#7C3AED,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
-    class A,B,C,D,E,F,G node
+    F --> G["☁️ Cloud-Native Runtime<br/>Docker · Kubernetes · AWS"]
+
+    G --> H["🛡️ Security Engineering<br/>Threat Modeling · Secure APIs · Container Security"]
+
+    H --> I["📡 Detection & Monitoring<br/>Logs · Network Visibility · Threat Analysis"]
+
+    I --> J["🤖 Intelligent Security<br/>AI · RAG · Vector Search · Automation"]
+
+    J --> K["🔄 Continuous Improvement<br/>Detect → Analyze → Respond → Improve"]
+
+    K -.-> B
+
+    classDef core fill:#111827,stroke:#7C3AED,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
+    classDef security fill:#111827,stroke:#DC2626,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
+    classDef cloud fill:#111827,stroke:#2563EB,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
+    classDef ai fill:#111827,stroke:#9333EA,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
+
+    class A,B,C,D,E,F core
+    class G cloud
+    class H,I security
+    class J,K ai
 ```
 
 ---
