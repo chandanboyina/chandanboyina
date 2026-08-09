@@ -4,24 +4,27 @@
 
 # BOYINA NAGA SAI CHANDAN
 
-<img src="https://img.shields.io/badge/%20Aspiring%20Software%20Engineer%20%7C%20Backend%20%26%20Cybersecurity-0A66C2?style=for-the-badge&labelColor=0A0E27"/>
+<sub>◆ ◆ ◆</sub>
+
+<img src="https://img.shields.io/badge/ASPIRING%20SOFTWARE%20ENGINEER-141B2D?style=for-the-badge&labelColor=141B2D"/><img src="https://img.shields.io/badge/BACKEND%20%26%20CYBERSECURITY-0A66C2?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/-Backend%20Engineering-6DB33F?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/-Cloud%20%26%20DevOps-232F3E?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/-Cybersecurity-D32F2F?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/-Applied%20AI%20%2F%20RAG-4B0082?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Backend%20Engineering-141B2D?style=flat-square&labelColor=141B2D&color=0A66C2"/>&nbsp;
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-141B2D?style=flat-square&labelColor=141B2D&color=2F6FED"/>&nbsp;
+<img src="https://img.shields.io/badge/Cybersecurity-141B2D?style=flat-square&labelColor=141B2D&color=5A5FEF"/>&nbsp;
+<img src="https://img.shields.io/badge/Applied%20AI%20%2F%20RAG-141B2D?style=flat-square&labelColor=141B2D&color=8B5CF6"/>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/chandanboyina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:chandanboyina@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Open%20to%20Work-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<a href="https://www.linkedin.com/in/chandanboyina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:chandanboyina@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-1F8A45?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 <br>
 
 </div>
+
 
 <br>
 
