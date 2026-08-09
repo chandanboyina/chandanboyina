@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## `BUILD` · `SECURE` · `SCALE` · `AUTOMATE`
+## `Learn` · `Contribute` · `Grow`
 
 </div>
 
