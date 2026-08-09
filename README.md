@@ -113,60 +113,34 @@ Vector Search
 
 **💻 Languages**
 
-<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)"/>
-<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)"/>
-
-<br>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,sql" />
 
 **⚙️ Backend & Frameworks**
 
-<img src="[https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)"/>
-
-<br>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,react" />
 
 **🗄️ Databases**
 
-<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)"/>
-
-<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
 
 **☁️ Cloud & DevOps**
 
-<img src="[https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)"/>
-<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)"/>
-
-<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,git" />
 
 **🤖 AI / Intelligent Systems**
 
-<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/FAISS-Vector_Search-000000?style=for-the-badge](https://img.shields.io/badge/FAISS-Vector_Search-000000?style=for-the-badge)"/>
-<img src="[https://img.shields.io/badge/RAG-Applied_AI-7C3AED?style=for-the-badge](https://img.shields.io/badge/RAG-Applied_AI-7C3AED?style=for-the-badge)"/>
-
-<br>
+<img src="https://skillicons.dev/icons?i=python" /><br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Applied%20AI-7C3AED?style=for-the-badge"/>
 
 **🔐 Security**
 
-<img src="[https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge)"/>
-<img src="[https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Nmap-004170?style=for-the-badge](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)"/>
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
 
 </div>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -253,7 +227,7 @@ A full-stack AI SaaS app with secure auth/RBAC, and a lightweight distributed jo
 
 ## 🏗️ How I Think About Systems
 
-```markdown-mermaid
+```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1D4ED8','primaryTextColor':'#F8FAFC','primaryBorderColor':'#7C3AED','lineColor':'#64748B','secondaryColor':'#111827','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
 flowchart TD
     A["🖥️ Client"] --> B["🔌 API Layer<br/>REST / WebSockets"]
@@ -275,7 +249,7 @@ flowchart TD
 
 I approach security as part of the software lifecycle rather than something added after development.
 
-```markdown-mermaid
+```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#DC2626','primaryTextColor':'#F8FAFC','primaryBorderColor':'#DC2626','lineColor':'#64748B','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
 flowchart LR
     A["🎯 Design"] --> B["🧭 Threat Model"]
@@ -296,7 +270,7 @@ flowchart LR
 
 ## ☁️ Cloud-Native Engineering
 
-```markdown-mermaid
+```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#2563EB','primaryTextColor':'#F8FAFC','primaryBorderColor':'#2563EB','lineColor':'#64748B','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
 flowchart LR
     A["📝 Source Code"] --> B["🌱 Git"]
@@ -315,7 +289,7 @@ flowchart LR
 
 One of my major areas of interest is combining traditional software engineering with AI and cybersecurity.
 
-```markdown-mermaid
+```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#9333EA','primaryTextColor':'#F8FAFC','primaryBorderColor':'#9333EA','lineColor':'#64748B','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
 flowchart TD
     A["🛠️ Software Engineering"] --> B["🔐 Security"]
@@ -385,7 +359,7 @@ flowchart TD
 
 ## 📈 Engineering Journey
 
-```markdown-mermaid
+```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1D4ED8','primaryTextColor':'#F8FAFC','primaryBorderColor':'#1D4ED8','lineColor':'#64748B','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
 flowchart LR
     A["💻 Programming"] --> B["⚙️ Backend Dev"]
