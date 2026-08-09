@@ -453,14 +453,9 @@ I'm interested in entry-level engineering opportunities where I can work on real
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chandanboyina&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanboyina&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanboyina&theme=github-dark-blue&hide_border=true" />
 
