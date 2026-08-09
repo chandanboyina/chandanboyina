@@ -190,73 +190,87 @@ Vector Search
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🚀 What I've Built
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### 🛡️ AEGIS-X
-AI-driven cyber resilience platform with real-time threat monitoring, graph-based attack-path analysis, and a RAG pipeline for context-aware threat investigation.
+### 🛡️ AEGIS-X — AI-Driven Cyber Resilience Platform
 
-`Python` `FastAPI` `React` `LangChain` `FAISS` `NetworkX` `WebSockets`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![FAISS](https://img.shields.io/badge/-FAISS-000000?style=flat-square)
+![NetworkX](https://img.shields.io/badge/-NetworkX-3776AB?style=flat-square)
 
-→ [Explore AEGIS-X](#)
+Real-time threat monitoring platform with graph-based attack-path analysis and a **RAG pipeline** for context-aware threat investigation.
 
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Cloud-Native Task Orchestration
-Dynamically provisions isolated Kubernetes workloads for distributed task execution, with a real-time monitoring dashboard and automated CI/CD.
-
-`Java` `Spring Boot` `MongoDB` `Docker` `Kubernetes` `React` `GitHub Actions`
-
-→ [Explore Task Orchestration Platform](#)
+**[→ github.com/chandanboyina/AEGIS-X](https://github.com/chandanboyina/AEGIS-X)**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### 💇 Salon Appointment Booking
-Microservices-based appointment booking platform with Keycloak-secured authentication, event-driven messaging via RabbitMQ, and real-time scheduling.
+### ☁️ Cloud-Native Task Orchestration Platform
 
-`Java` `Spring Boot` `React` `MySQL` `RabbitMQ` `Keycloak` `Docker` `Eureka`
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-→ [Explore Salon Appointment Booking](#)
+Distributed task engine that dynamically provisions **isolated Kubernetes pods** per job, with a live monitoring dashboard and automated deploy pipelines.
 
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI SaaS Chatbot
-AI-powered SaaS chatbot with secure authentication, role-based access control, and third-party AI API integration.
-
-`TypeScript` `Node.js` `Express.js` `React` `MongoDB`
-
-→ [Explore AI SaaS Chatbot](#)
+**[→ github.com/chandanboyina/Cloud-Native-Task-Orchestration-Platform](https://github.com/chandanboyina/Cloud-Native-Task-Orchestration-Platform)**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### ⚙️ Flam Backend
-Lightweight distributed job queue system for reliable asynchronous job execution, with worker management and retry/backoff handling.
+### 💇 Salon Appointment Booking Platform
 
-`Python` `CLI` `Distributed Systems`
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Eureka](https://img.shields.io/badge/-Eureka-6DB33F?style=flat-square)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-→ [Explore Flam Backend](#)
+Microservices booking system with centralized IAM (Keycloak), event-driven messaging (RabbitMQ), and real-time slot locking over WebSockets.
+
+**[→ github.com/chandanboyina/Salon-appointment-booking](https://github.com/chandanboyina/Salon-appointment-booking)**
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%">
+
+### 🤖 AI SaaS Chatbot &nbsp;·&nbsp; ⚙️ Flam Backend
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+&nbsp;|&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Distributed](https://img.shields.io/badge/-Distributed%20Systems-000000?style=flat-square)
+
+A full-stack AI SaaS app with secure auth/RBAC, and a lightweight distributed job queue with retries and persistent storage.
+
+**[→ Ai-Saas-Chatbot](https://github.com/chandanboyina/Ai-Saas-Chatbot)** &nbsp;·&nbsp; **[→ Flam-Backend](https://github.com/chandanboyina/Flam-Backend)**
 
 </td>
 </tr>
 </table>
 
----
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🏗️ How I Think About Systems
 
