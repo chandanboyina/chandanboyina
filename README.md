@@ -389,23 +389,6 @@ flowchart TD
 </tr>
 </table>
 
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Area |
-|---|---|
-|  AWS Certified Cloud Practitioner | Cloud |
-|  Fundamentals of Java Programming | Java |
-|  The Joy of Computing Using Python | Python |
-|  Cloud Computing | Cloud |
-|  Fundamentals of Cryptography | Security |
-|  Frontend for Java Full Stack Development | Development |
-|  MongoDB | Database |
-
-</div>
-
 ---
 
 ## 📈 Engineering Journey
