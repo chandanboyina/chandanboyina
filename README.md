@@ -24,10 +24,6 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                     QUICK INTRO                            -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 ## `BUILD` · `SECURE` · `SCALE` · `AUTOMATE`
@@ -76,48 +72,11 @@ Secure APIs
 
 ## 👨‍💻 About Me
 
+Computer Science Engineering student focused on backend and distributed systems development using Java, Python, and TypeScript. Hands-on experience building RESTful microservices, real-time systems, containerized applications, Kubernetes-based workloads, and AI-powered platforms. Strong foundation in data structures, algorithms, system design, and software engineering, with a focus on writing reliable, maintainable production-oriented code.
+
 <table>
 <tr>
-<td width="65%" valign="top">
-
-### Building software beyond the demo.
-
-I build **backend systems that scale, deploy cleanly, and integrate AI where it actually adds engineering value**.
-
-My primary focus is **software engineering and backend development**, with a strong interest in **security engineering, cloud-native architecture and applied AI**.
-
-I enjoy working across the complete engineering lifecycle:
-
-```text
-API Design
-    ↓
-Authentication & Authorization
-    ↓
-Microservices
-    ↓
-Messaging & Distributed Systems
-    ↓
-Containers
-    ↓
-Kubernetes
-    ↓
-CI/CD
-    ↓
-Cloud
-    ↓
-Monitoring & Intelligent Automation
-```
-
-I care about building software that is:
-**Secure by design · Scalable · Maintainable · Observable · Production-oriented**
-
-</td>
-<td width="35%" valign="top">
-
-#### 🎓 Education
-**B.Tech — Computer Science & Engineering**
-Amrita Vishwa Vidyapeetham
-2022 – 2026
+<td width="50%" valign="top">
 
 #### 🎯 Current Focus
 - Backend Engineering
@@ -126,6 +85,9 @@ Amrita Vishwa Vidyapeetham
 - Cybersecurity
 - Applied AI / RAG
 - System Design
+
+</td>
+<td width="50%" valign="top">
 
 #### 🚀 Open To
 - Software Engineer
@@ -232,147 +194,86 @@ Vector Search
 
 ## 🚀 What I've Built
 
-### 🛡️ AEGIS-X — AI-Driven Cyber Resilience Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> AI × Cybersecurity × Real-Time Security Analytics
+### 🛡️ AEGIS-X
+AI-driven cyber resilience platform with real-time threat monitoring, graph-based attack-path analysis, and a RAG pipeline for context-aware threat investigation.
 
-Real-time threat monitoring platform combining graph-based attack-path analysis with a RAG pipeline for context-aware threat investigation.
-
-**Core Technologies:** `Python` `FastAPI` `React` `LangChain` `FAISS` `NetworkX` `WebSockets`
-
-**Engineering Highlights**
-- Real-time security event processing
-- Graph-based asset relationship modeling
-- Attack-path analysis using NetworkX
-- Retrieval-Augmented Generation pipeline
-- Context-aware threat investigation
-- Intelligent security analytics
-- Real-time WebSocket communication
+`Python` `FastAPI` `React` `LangChain` `FAISS` `NetworkX` `WebSockets`
 
 → [Explore AEGIS-X](#)
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-### ☁️ Cloud-Native Task Orchestration Platform
+### ☁️ Cloud-Native Task Orchestration
+Dynamically provisions isolated Kubernetes workloads for distributed task execution, with a real-time monitoring dashboard and automated CI/CD.
 
-> Distributed Task Execution · Kubernetes · CI/CD
-
-A cloud-native task execution platform that dynamically provisions isolated Kubernetes workloads for distributed task execution and monitoring.
-
-**Core Technologies:** `Java` `Spring Boot` `MongoDB` `Docker` `Kubernetes` `React` `GitHub Actions`
-
-**Engineering Highlights**
-- Dynamic Kubernetes pod provisioning
-- Isolated execution environments
-- Distributed task execution
-- Real-time task-state monitoring
-- React-based monitoring dashboard
-- Docker-based deployment
-- Automated GitHub Actions CI/CD pipelines
+`Java` `Spring Boot` `MongoDB` `Docker` `Kubernetes` `React` `GitHub Actions`
 
 → [Explore Task Orchestration Platform](#)
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💇 Salon Appointment Booking
+Microservices-based appointment booking platform with Keycloak-secured authentication, event-driven messaging via RabbitMQ, and real-time scheduling.
 
-> Microservices · Security · Event-Driven Architecture
-
-A microservices-based appointment booking platform designed around secure authentication, service discovery, event-driven communication and real-time scheduling.
-
-**Core Technologies:** `Java` `Spring Boot` `React` `MySQL` `RabbitMQ` `Keycloak` `Docker` `WebSockets` `Eureka`
-
-**Engineering Highlights**
-- Microservices architecture
-- Centralized authentication using Keycloak
-- JWT / OAuth2 security
-- RabbitMQ-based inter-service messaging
-- Eureka service discovery
-- Real-time WebSocket communication
-- Appointment and slot management
-- Customer and salon-owner workflows
-- Dockerized services
+`Java` `Spring Boot` `React` `MySQL` `RabbitMQ` `Keycloak` `Docker` `Eureka`
 
 → [Explore Salon Appointment Booking](#)
 
-<br>
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 AI SaaS Chatbot
+AI-powered SaaS chatbot with secure authentication, role-based access control, and third-party AI API integration.
 
-> AI Applications · Full-Stack Engineering · Secure APIs
-
-AI-powered SaaS chatbot application with secure authentication, role-based access and AI API integration.
-
-**Core Technologies:** `TypeScript` `Node.js` `Express.js` `React` `MongoDB`
-
-**Engineering Highlights**
-- AI-powered SaaS architecture
-- Secure authentication
-- Role-based access control
-- REST APIs
-- MongoDB persistence
-- AI API integration
+`TypeScript` `Node.js` `Express.js` `React` `MongoDB`
 
 → [Explore AI SaaS Chatbot](#)
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ⚙️ Flam Backend — Distributed Job Queue
+### ⚙️ Flam Backend
+Lightweight distributed job queue system for reliable asynchronous job execution, with worker management and retry/backoff handling.
 
-> Python
-
-Lightweight distributed job queue system focused on reliable asynchronous job execution.
-
-**Core Concepts:** `Python` `CLI` `Distributed Systems`
-
-**Engineering Highlights**
-- Asynchronous job execution
-- Persistent job storage
-- Worker management
-- Retry mechanisms
-- Backoff handling
-- Distributed processing concepts
+`Python` `CLI` `Distributed Systems`
 
 → [Explore Flam Backend](#)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏗️ How I Think About Systems
 
-```text
-                         ┌─────────────────────┐
-                         │       CLIENT        │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │      API LAYER       │
-                         │  REST / WebSockets   │
-                         └──────────┬──────────┘
-                                    │
-                     ┌──────────────┼──────────────┐
-                     │              │              │
-                     ▼              ▼              ▼
-              ┌────────────┐ ┌────────────┐ ┌──────────────┐
-              │  BACKEND   │ │  SECURITY  │ │ MICROSERVICES │
-              │ Spring Boot│ │ IAM / JWT  │ │   SERVICES    │
-              └─────┬──────┘ └────────────┘ └──────┬───────┘
-                    │                               │
-                    └───────────────┬───────────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ DATA & COMMUNICATION │
-                         │ MySQL / MongoDB      │
-                         │ RabbitMQ / REST      │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │  CLOUD & DEVOPS      │
-                         │ Docker / Kubernetes  │
-                         │ AWS / CI/CD          │
-                         └─────────────────────┘
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1D4ED8','primaryTextColor':'#F8FAFC','primaryBorderColor':'#7C3AED','lineColor':'#64748B','secondaryColor':'#111827','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
+flowchart TD
+    A["🖥️ Client"] --> B["🔌 API Layer<br/>REST / WebSockets"]
+    B --> C["⚙️ Backend<br/>Spring Boot"]
+    B --> D["🔐 Security<br/>IAM / JWT"]
+    B --> E["🧩 Microservices"]
+    C --> F["🗄️ Data & Communication<br/>MySQL · MongoDB · RabbitMQ"]
+    D --> F
+    E --> F
+    F --> G["☁️ Cloud & DevOps<br/>Docker · Kubernetes · AWS"]
+
+    classDef node fill:#111827,stroke:#7C3AED,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
+    class A,B,C,D,E,F,G node
 ```
 
 ---
@@ -381,8 +282,19 @@ Lightweight distributed job queue system focused on reliable asynchronous job ex
 
 I approach security as part of the software lifecycle rather than something added after development.
 
-```text
-DESIGN → THREAT MODEL → SECURE CODE → TEST & VALIDATE → DEPLOY → MONITOR → IMPROVE
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#DC2626','primaryTextColor':'#F8FAFC','primaryBorderColor':'#DC2626','lineColor':'#64748B','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
+flowchart LR
+    A["🎯 Design"] --> B["🧭 Threat Model"]
+    B --> C["🔒 Secure Code"]
+    C --> D["🧪 Test & Validate"]
+    D --> E["🚀 Deploy"]
+    E --> F["📡 Monitor"]
+    F --> G["🔁 Improve"]
+    G -.-> A
+
+    classDef node fill:#111827,stroke:#DC2626,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
+    class A,B,C,D,E,F,G node
 ```
 
 **Areas of Interest:** Application Security · API Security · Authentication & Authorization · IAM · JWT / OAuth2 · Network Security · Cloud Security · Container Security
@@ -391,8 +303,17 @@ DESIGN → THREAT MODEL → SECURE CODE → TEST & VALIDATE → DEPLOY → MONIT
 
 ## ☁️ Cloud-Native Engineering
 
-```text
-SOURCE CODE → GIT → CI/CD → DOCKER → KUBERNETES → AWS
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#2563EB','primaryTextColor':'#F8FAFC','primaryBorderColor':'#2563EB','lineColor':'#64748B','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
+flowchart LR
+    A["📝 Source Code"] --> B["🌱 Git"]
+    B --> C["🔄 CI/CD"]
+    C --> D["🐳 Docker"]
+    D --> E["☸️ Kubernetes"]
+    E --> F["☁️ AWS"]
+
+    classDef node fill:#111827,stroke:#2563EB,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
+    class A,B,C,D,E,F node
 ```
 
 ---
@@ -401,24 +322,18 @@ SOURCE CODE → GIT → CI/CD → DOCKER → KUBERNETES → AWS
 
 One of my major areas of interest is combining traditional software engineering with AI and cybersecurity.
 
-```text
-                 SOFTWARE ENGINEERING
-                         │
-              ┌──────────┴──────────┐
-              │                     │
-              ▼                     ▼
-          SECURITY                 AI / ML
-              │                     │
-              ▼                     ▼
-        Secure APIs                RAG
-        IAM                        LLMs
-        Monitoring                 Vector Search
-        Threat Analysis            Intelligent Automation
-              │                     │
-              └──────────┬──────────┘
-                         ▼
-                SECURE INTELLIGENT
-                     SYSTEMS
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#9333EA','primaryTextColor':'#F8FAFC','primaryBorderColor':'#9333EA','lineColor':'#64748B','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
+flowchart TD
+    A["🛠️ Software Engineering"] --> B["🔐 Security"]
+    A --> C["🤖 AI / ML"]
+    B --> D["Secure APIs · IAM<br/>Monitoring · Threat Analysis"]
+    C --> E["RAG · LLMs<br/>Vector Search · Automation"]
+    D --> F["🧠 Secure Intelligent Systems"]
+    E --> F
+
+    classDef node fill:#111827,stroke:#9333EA,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
+    class A,B,C,D,E,F node
 ```
 
 ---
@@ -487,8 +402,18 @@ Amrita Vishwa Vidyapeetham | 2022 – 2026 | CGPA: 7.69 / 10
 
 ## 📈 Engineering Journey
 
-```text
-PROGRAMMING → BACKEND DEVELOPMENT → MICROSERVICES → CLOUD & DEVOPS → SECURITY ENGINEERING → AI / ML → INTELLIGENT SECURE SYSTEMS
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1D4ED8','primaryTextColor':'#F8FAFC','primaryBorderColor':'#1D4ED8','lineColor':'#64748B','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
+flowchart LR
+    A["💻 Programming"] --> B["⚙️ Backend Dev"]
+    B --> C["🧩 Microservices"]
+    C --> D["☁️ Cloud & DevOps"]
+    D --> E["🔐 Security"]
+    E --> F["🤖 AI / ML"]
+    F --> G["🧠 Intelligent Secure Systems"]
+
+    classDef node fill:#111827,stroke:#1D4ED8,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
+    class A,B,C,D,E,F,G node
 ```
 
 ---
