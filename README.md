@@ -339,16 +339,6 @@ flowchart TD
 </tr>
 </table>
 
----
-
-## 🎓 Education
-
-**Bachelor of Technology — Computer Science & Engineering**
-Amrita Vishwa Vidyapeetham | 2022 – 2026 | CGPA: 7.69 / 10
-
-**Relevant Coursework:** Data Structures & Algorithms · Operating Systems · Computer Networks · Database Management Systems · Object-Oriented Programming · Distributed Systems · Computer Security · Cryptography · Cloud Computing · Software Engineering · Machine Learning · Design & Analysis of Algorithms
-
----
 
 ## 🏆 Certifications
 
@@ -436,10 +426,10 @@ Interested in software engineering, backend systems, cloud platforms or security
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanboyina)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanboyina@gmail.com)
 
-**Open to building · learning · collaborating · solving**
+**Open to building · learning · collaborating · Growing**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:111827,100:0F172A&height=100&section=footer"/>
 
-### ⚡ BUILD · SECURE · SCALE · LEARN
+### ⚡ LEARN · CONTRIBUTE · GROW 
 
 </div>
