@@ -1,8 +1,10 @@
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=50&lines=B.+Naga+Sai+Chandan;Software+Engineer;Backend+%26+Security+Engineering" alt="Typing SVG" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:1D4ED8&height=180&section=header&text=B.%20Naga%20Sai%20Chandan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Security%20Engineering&descAlignY=62&descSize=18&descColor=CBD5E1" width="100%"/>
 
 ### Aspiring Software Engineer · Backend Engineering · Security Engineering
 
