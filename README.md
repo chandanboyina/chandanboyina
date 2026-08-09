@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Computer Science Engineering student focused on backend and distributed systems development using Java, Python, and TypeScript. Hands-on experience building RESTful microservices, real-time systems, containerized applications, Kubernetes-based workloads, and AI-powered platforms. Strong foundation in data structures, algorithms, system design, and software engineering, with a focus on writing reliable, maintainable production-oriented code.
 
@@ -204,18 +204,34 @@ Microservices booking system with centralized IAM (Keycloak), event-driven messa
 <tr>
 <td width="100%">
 
-### 🤖 AI SaaS Chatbot &nbsp;·&nbsp; ⚙️ Flam Backend
+### 🤖 AI SaaS Chatbot
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-&nbsp;|&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+An AI-powered SaaS chatbot application built using the MERN stack and TypeScript, with secure authentication, role-based access control, OpenAI API integration, and a responsive React frontend.
+
+**[→ github.com/chandanboyina/Ai-Saas-Chatbot](https://github.com/chandanboyina/Ai-Saas-Chatbot)**
+
+### ⚙️ Flam Backend
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Distributed](https://img.shields.io/badge/-Distributed%20Systems-000000?style=flat-square)
+![Typer](https://img.shields.io/badge/-Typer-009688?style=flat-square)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-5C2D91?style=flat-square)
 
-A full-stack AI SaaS app with secure auth/RBAC, and a lightweight distributed job queue with retries and persistent storage.
+A lightweight distributed CLI-driven job queue system built with Python, featuring asynchronous job execution, persistent storage, multiple worker management, retry and backoff mechanisms.
 
-**[→ Ai-Saas-Chatbot](https://github.com/chandanboyina/Ai-Saas-Chatbot)** &nbsp;·&nbsp; **[→ Flam-Backend](https://github.com/chandanboyina/Flam-Backend)**
+**[→ github.com/chandanboyina/Flam-Backend](https://github.com/chandanboyina/Flam-Backend)**
 
 </td>
 </tr>
@@ -345,13 +361,13 @@ flowchart TD
 
 | Certification | Area |
 |---|---|
-| ☁️ AWS Certified Cloud Practitioner | Cloud |
-| ☕ Fundamentals of Java Programming | Java |
-| 🐍 The Joy of Computing Using Python | Python |
-| ☁️ Cloud Computing | Cloud |
-| 🔐 Fundamentals of Cryptography | Security |
-| 🌐 Frontend for Java Full Stack Development | Development |
-| 🍃 MongoDB | Database |
+|  AWS Certified Cloud Practitioner | Cloud |
+|  Fundamentals of Java Programming | Java |
+|  The Joy of Computing Using Python | Python |
+|  Cloud Computing | Cloud |
+|  Fundamentals of Cryptography | Security |
+|  Frontend for Java Full Stack Development | Development |
+|  MongoDB | Database |
 
 </div>
 
@@ -429,6 +445,6 @@ Interested in software engineering, backend systems, cloud platforms or security
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:111827,100:0F172A&height=100&section=footer"/>
 
-### ⚡ LEARN · CONTRIBUTE · GROW 
+###  LEARN · CONTRIBUTE · GROW 
 
 </div>
