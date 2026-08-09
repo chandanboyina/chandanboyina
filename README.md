@@ -11,7 +11,6 @@
 **Designing secure, scalable and intelligent software systems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandanboyina/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanboyina)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanboyina@gmail.com)
 
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white"/>
@@ -156,9 +155,12 @@ Vector Search
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![FAISS](https://img.shields.io/badge/-FAISS-000000?style=flat-square)
-![NetworkX](https://img.shields.io/badge/-NetworkX-3776AB?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square)
+![NetworkX](https://img.shields.io/badge/-NetworkX-2C3E50?style=flat-square)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-7B61FF?style=flat-square)
+![AI](https://img.shields.io/badge/-AI-8E44AD?style=flat-square)
 
 Real-time threat monitoring platform with graph-based attack-path analysis and a **RAG pipeline** for context-aware threat investigation.
 
@@ -173,9 +175,12 @@ Real-time threat monitoring platform with graph-based attack-path analysis and a
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square)
 
 Distributed task engine that dynamically provisions **isolated Kubernetes pods** per job, with a live monitoring dashboard and automated deploy pipelines.
 
@@ -190,10 +195,13 @@ Distributed task engine that dynamically provisions **isolated Kubernetes pods**
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Eureka](https://img.shields.io/badge/-Eureka-6DB33F?style=flat-square)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 Microservices booking system with centralized IAM (Keycloak), event-driven messaging (RabbitMQ), and real-time slot locking over WebSockets.
 
