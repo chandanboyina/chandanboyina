@@ -84,10 +84,11 @@ Cloud-Native Systems
 **🔐 Security**<br><br>
 Authentication<br>
 Authorization<br>
-JWT<br>
-OAuth2<br>
+JWT / OAuth2<br>
 IAM<br>
-Secure APIs
+Secure APIs<br>
+Network Security<br>
+Threat Analysis
 
 </td>
 <td align="center" width="25%">
@@ -412,15 +413,17 @@ flowchart TD
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1D4ED8','primaryTextColor':'#F8FAFC','primaryBorderColor':'#1D4ED8','lineColor':'#64748B','tertiaryColor':'#0F172A','fontSize':'15px'}}}%%
 flowchart LR
-    A["💻 Programming"] --> B["⚙️ Backend Dev"]
+
+    A["💻 Programming"] --> B["⚙️ Backend Engineering"]
     B --> C["🧩 Microservices"]
     C --> D["☁️ Cloud & DevOps"]
-    D --> E["🔐 Security"]
-    E --> F["🤖 AI / ML"]
-    F --> G["🧠 Intelligent Secure Systems"]
+    D --> E["🔐 Secure Engineering"]
+    E --> F["🛡️ Cybersecurity"]
+    F --> G["🤖 AI / ML"]
+    G --> H["🧠 Secure Intelligent Systems"]
 
     classDef node fill:#111827,stroke:#1D4ED8,stroke-width:1.5px,color:#F8FAFC,rx:8,ry:8
-    class A,B,C,D,E,F,G node
+    class A,B,C,D,E,F,G,H node
 ```
 
 ---
