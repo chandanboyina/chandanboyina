@@ -3,9 +3,7 @@
 <!-- ========================================================= -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:1D4ED8&height=180&section=header&text=B.%20Naga%20Sai%20Chandan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Security%20Engineering&descAlignY=62&descSize=18&descColor=CBD5E1" width="100%"/>
-
+# BOYINA NAGA SAI CHANDAN
 ### Aspiring Software Engineer · Backend Engineering · Security Engineering
 
 **Designing secure, scalable and intelligent software systems.**
