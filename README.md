@@ -109,7 +109,7 @@ Vector Search
 
 ## 🛠️ Technology Stack
 
-<div align="center">
+<div align="left">
 
 **💻 Languages**
 
