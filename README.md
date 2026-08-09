@@ -142,7 +142,7 @@ Vector Search
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
 
 </div>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 🚀 What I've Built
 
