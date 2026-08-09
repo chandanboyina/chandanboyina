@@ -24,52 +24,6 @@
 
 ---
 
-<div align="center">
-
-## `Learn` · `Contribute` · `Grow`
-
-</div>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 💻 SOFTWARE
-Backend Systems<br>
-REST APIs<br>
-System Design
-
-</td>
-<td width="25%" align="center">
-
-### ⚙️ BACKEND
-Java<br>
-Spring Boot<br>
-Microservices
-
-</td>
-<td width="25%" align="center">
-
-### ☁️ CLOUD
-AWS<br>
-Docker<br>
-Kubernetes<br>
-CI/CD
-
-</td>
-<td width="25%" align="center">
-
-### 🔐 SECURITY
-IAM<br>
-JWT / OAuth2<br>
-Secure APIs
-
-</td>
-</tr>
-</table>
-
----
-
 ## 👨‍💻 About Me
 
 Computer Science Engineering student focused on backend and distributed systems development using Java, Python, and TypeScript. Hands-on experience building RESTful microservices, real-time systems, containerized applications, Kubernetes-based workloads, and AI-powered platforms. Strong foundation in data structures, algorithms, system design, and software engineering, with a focus on writing reliable, maintainable production-oriented code.
